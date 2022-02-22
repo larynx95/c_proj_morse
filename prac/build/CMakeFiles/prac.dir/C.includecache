@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/code.c
+code.h
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/code.h
+stdio.h
+-
+
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/code.h
+stdio.h
+-
+
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/main.c
+stdio.h
+-
+code.h
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/code.h
+

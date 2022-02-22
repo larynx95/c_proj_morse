@@ -1,0 +1,15 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "code-runner.executorMap": {
+    /* for GNU gcc compiler */
+    // "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    // "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt && rm *.exe",
+    /* for tcc compiler */
+    // "c": "cd $dir && tcc $fileName -o $fileNameWithoutExt.exe && $dir$fileNameWithoutExt.exe",
+    "c": "cd $dir && tcc -run $fileName",
+    /* for c++ compiler */
+    "cpp": "cd $dir && g++ -std=gnu++2a -fconcepts $fileName -o $fileNameWithoutExt.exe && $dir$fileNameWithoutExt.exe",
+  },
+  "C_Cpp.clang_format_fallbackStyle": "google",
+  "editor.formatOnSave": true,
+}

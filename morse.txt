@@ -1,0 +1,105 @@
+https://morsecode.world/international/morse.html
+
+1. Alphanumeric and Symbols
+
+   A    di-dah
+   B    dah-di-di-dit
+   C    dah-di-dah-dit
+   D    dah-di-dit
+   E    dit
+   F    di-di-dah-dit
+   G    dah-dah-dit
+   H    di-di-di-dit
+   I    di-dit
+   J    di-dah-dah-dah
+   K    dah-di-dah
+   L    di-dah-di-dit
+   M    dah-dah
+   N    dah-dit
+   O    dah-dah-dah
+   P    di-dah-dah-dit
+   Q    dah-dah-di-dah
+   R    di-dah-dit
+   S    di-di-dit
+   T    dah
+   U    di-di-dah
+   V    di-di-di-dah
+   W    di-dah-dah
+   X    dah-di-di-dah
+   Y    dah-di-dah-dah
+   Z    dah-dah-di-dit
+   0    dah-dah-dah-dah-dah
+   1    di-dah-dah-dah-dah
+   2    di-di-dah-dah-dah
+   3    di-di-di-dah-dah
+   4    di-di-di-di-dah
+   5    di-di-di-di-dit
+   6    dah-di-di-di-dit
+   7    dah-dah-di-di-dit
+   8    dah-dah-dah-di-dit
+   9    dah-dah-dah-dah-dit
+   ä    di-dah-di-dah
+   á    di-dah-dah-di-dah
+   å    di-dah-dah-di-dah
+   Ch   dah-dah-dah-dah
+   é    di-di-dah-di-dit
+   ñ    dah-dah-di-dah-dah
+   ö    dah-dah-dah-dit
+   ü    di-di-dah-dah
+   &    Ampersand                     di-dah-di-di-dit
+   '    Apostrophe                    di-dah-dah-dah-dah-dit
+   @    At sign                       di-dah-dah-di-dah-dit
+   )    Bracket, close (parenthesis)  dah-di-dah-dah-di-dah
+   (    Bracket, open (parenthesis)   dah-di-dah-dah-dit
+   :    Colon                         dah-dah-dah-di-di-dit
+   ,    Comma                         dah-dah-di-di-dah-dah
+   =    Equals sign                   dah-di-di-di-dah
+   !    Exclamation mark              dah-di-dah-di-dah-dah
+   .    Full-stop (period)            di-dah-di-dah-di-dah
+   -    Hyphen                        dah-di-di-di-di-dah
+   +    Plus sign                     di-dah-di-dah-dit
+   "    Quotation marks               di-dah-di-di-dah-dit
+   ?    Question mark (query)         di-di-dah-dah-di-dit
+   /    Slash                         dah-di-di-dah-dit
+   <AA> New line                      di-dah-di-dah
+   <AR> End of message                di-dah-di-dah-dit
+   <AS> Wait                          di-dah-di-di-dit
+   <BK> Break                         dah-di-di-di-dah-di-dah
+   <BT> New paragraph                 dah-di-di-di-dah
+   <CL> Going off the air ("clear")   dah-di-dah-di-di-dah-di-dit
+   <CT> Start copying                 dah-di-dah-di-dah
+   <DO> Change to wabun code          dah-di-di-dah-dah-dah
+   <KN> Invite a specific station to transmit	dah-di-dah-dah-dit
+   <SK> End of transmission           di-di-di-dah-di-dah
+   <SN> Understood (also VE)          di-di-di-dah-dit
+   <SOS> Distress message             di-di-di-dah-dah-dah-di-di-dit
+   Over           K
+   Roger          R
+   See you later	 CUL
+   Be seeing you	 BCNU
+   You're         UR
+   Signal report  RST
+   Best regards   73
+   Love and kisses	88
+   QSL   I acknowledge receipt
+   QSL?  Do you acknowledge?
+   QRX   Wait
+   QRX?  Should I wait?
+   QRV   I am ready to copy
+   QRV?  Are you ready to copy?
+   QRL   The frequency is in use
+   QRL?  Is the frequency in use?
+   QTH   My location is...
+   QTH?  What is your location?
+
+2. Morse code time relationship
+
+            1         2         3         4         5         6         7         8
+   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+   M------   O----------   R------   S----   E       C----------   O----------
+   D------   E
+   ===.===...===.===.===...=.===.=...=.=.=...=.......===.=.===.=...===.===.===...===.=.=...=
+      ^               ^    ^       ^             ^
+      |              dah  dit      |             |
+   symbol space                letter space    word space
+

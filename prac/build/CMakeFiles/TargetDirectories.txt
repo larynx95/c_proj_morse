@@ -1,0 +1,3 @@
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/build/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/build/CMakeFiles/prac.dir
+/cygdrive/c/Users/k/Documents/gcc_morse/prac/build/CMakeFiles/edit_cache.dir
