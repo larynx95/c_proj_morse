@@ -1,15 +1,26 @@
 # Morse Code Encoder/Decoder (my practice)
 
-- 2020.06.28
+2020.06.28  
+2022.06.03 again
 
 ## Environment
 
+### Windows 10
 - Install Cygwin64
 
   - Then, install `gcc-core`, `make`, `cmake` for C programming
   - `libsqlite3-devel` for SQLite database
 
-- Vscode
+### WSL2, Windows 11 (better)
+
+- Install WSL2 in Windows 11 
+- Install gcc, g++, gdb, make, cmake
+- Install Vscode
+
+## Refererences 
+
+- [Creating a stereo WAV file using](https://stackoverflow.com/questions/23030980/creating-a-stereo-wav-file-using-c)
+- [Write a WAV file from scratch - C++ Audio Programming](https://www.youtube.com/watch?v=qqjvB_VxMRM)
 
 ## Versions
 
